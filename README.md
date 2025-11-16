@@ -1,7 +1,7 @@
 ##  Automatic Car Gate System
 
 
- an automatic car gate that operates using **Ultrasonic sensor**. This project simulates a real-world smart parking gate system, making it suitable for **automation** and **IoT applications**. |
+ an automatic car gate that operates using **Ultrasonic sensor**. This project simulates a real-world smart parking gate system, making it suitable for **automation** and **IoT applications**. 
 
 ---
 
